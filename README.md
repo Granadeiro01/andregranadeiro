@@ -56,23 +56,6 @@ What you’ll find in my repos
 
 If a project is here, it’s because I learned something real from it.
 
-
-How I structure projects
-
-repo/
-├─ src/
-│  ├─ data/
-│  ├─ features/
-│  ├─ models/
-│  ├─ pipelines/
-│  └─ utils/
-├─ tests/
-├─ infra/
-├─ pyproject.toml
-└─ README.md
-
-Nothing fancy. Just separation of concerns, tests where they matter, and documentation that explains why, not just what.
-
 A few opinions (earned the hard way)
 	•	Data issues cause more failures than model choice
 	•	Simple models + good features beat complex models + bad data
@@ -87,10 +70,10 @@ I’m interested in system design, ML reliability, and how teams build data prod
 I learn mostly by building, breaking things
 
 Contact
-	•	[My LinkedIn] (www.linkedin.com/in/andre-granadeiro-9028a5204)
+	•	[My LinkedIn](www.linkedin.com/in/andre-granadeiro-9028a5204)]
 	•	Blog / Notes: 
 	•	Email: 
 
 
 ---
-📫 [LinkedIn](https://linkedin.com/in/andregranadeiro) • [Email](andregranadeiro33@gmail.Com)
+📫 [LinkedIn(https://linkedin.com/in/andregranadeiro) • [Email](andregranadeiro33@gmail.Com)
