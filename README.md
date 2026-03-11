@@ -1,5 +1,5 @@
 
-## Hello hello, my name is (human) André  
+## Hello hello, my name is André  
 MSc Finance @ IÉSEG | CFA L1 | Python & SQL | Risk & Asset Management  
 
 
